@@ -1,0 +1,9 @@
+{
+    "is_configured": false,
+    "is_started": false,
+    "configurations": {
+        "frequency": 15,
+        "execution_program_path": "",
+        "folders_list": {}
+    }
+}

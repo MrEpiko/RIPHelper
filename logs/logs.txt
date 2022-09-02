@@ -1,0 +1,175 @@
+[23:11:51] Scan started. 
+[23:11:54] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:11:54] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:11:54] Scan finished, no traces have been found. 
+[23:11:58] Scan stop requested. 
+[23:15:05] Scan started. 
+[23:15:08] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:15:08] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:15:08] Scan finished, no traces have been found. 
+[23:15:11] Scan stop requested. 
+[23:33:29] Scan stopped. 
+[23:33:50] Scan started. 
+[23:33:54] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:33:54] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:33:54] Scan finished, no traces have been found. 
+[23:34:09] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:34:09] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:34:09] Scan finished, no traces have been found. 
+[23:34:24] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:34:24] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:34:24] Scan finished, no traces have been found. 
+[23:34:39] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:34:39] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:34:39] Scan finished, no traces have been found. 
+[23:34:54] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:34:54] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:34:54] Scan finished, no traces have been found. 
+[23:35:09] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:35:09] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:35:09] Scan finished, no traces have been found. 
+[23:35:24] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:35:24] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:35:24] Scan finished, no traces have been found. 
+[23:35:39] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:35:39] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:35:39] Scan finished, no traces have been found. 
+[23:35:54] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:35:54] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:35:54] Scan finished, no traces have been found. 
+[23:36:09] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:36:09] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:36:09] Scan finished, no traces have been found. 
+[23:36:24] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:36:24] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:36:24] Scan finished, no traces have been found. 
+[23:36:39] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:36:39] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:36:39] Scan finished, no traces have been found. 
+[23:36:54] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:36:54] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:36:54] Scan finished, no traces have been found. 
+[23:37:03] Scan stop requested. 
+[23:37:09] Scan stopped. 
+[23:37:29] Scan started. 
+[23:37:32] Scan started, folders: {'C:/Users/pc/Desktop/folder8732872': {'backup': 'C:/Users/pc/Desktop/folder8732872/backup'}} 
+[23:37:32] Scanning C:/Users/pc/Desktop/folder8732872... 
+[23:37:32] Scan finished, no traces have been found. 
+[23:37:42] Scan stop requested. 
+[23:37:47] Scan stopped. 
+[23:38:57] Scan started. 
+[23:39:00] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:39:00] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:39:00] Found .tif file: montaza joca. stefi vesna.tif. File has been executed and moved to a backup folder. 
+[23:39:00] Scan finished, 1 traces have been found! 
+[23:39:16] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:39:16] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:39:16] Scan finished, no traces have been found. 
+[23:39:31] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:39:31] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:39:31] Scan finished, no traces have been found. 
+[23:39:46] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:39:46] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:39:46] Scan finished, no traces have been found. 
+[23:40:01] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:40:01] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:40:01] Scan finished, no traces have been found. 
+[23:40:16] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:40:16] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:40:16] Scan finished, no traces have been found. 
+[23:40:31] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:40:31] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:40:31] Scan finished, no traces have been found. 
+[23:40:46] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:40:46] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:40:46] Scan finished, no traces have been found. 
+[23:41:02] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:41:02] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:41:02] Scan finished, no traces have been found. 
+[23:41:17] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:41:17] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:41:17] Scan finished, no traces have been found. 
+[23:41:32] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:41:32] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:41:32] Scan finished, no traces have been found. 
+[23:41:47] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:41:47] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:41:47] Scan finished, no traces have been found. 
+[23:42:02] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:42:02] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:42:02] Scan finished, no traces have been found. 
+[23:42:17] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:42:17] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:42:17] Scan finished, no traces have been found. 
+[23:42:32] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:42:32] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:42:32] Scan finished, no traces have been found. 
+[23:42:47] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:42:47] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:42:47] Scan finished, no traces have been found. 
+[23:43:02] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:43:02] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:43:02] Scan finished, no traces have been found. 
+[23:43:17] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:43:17] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:43:17] Scan finished, no traces have been found. 
+[23:43:24] Scan stop requested. 
+[23:43:32] Scan stopped. 
+[23:43:54] Scan started. 
+[23:44:46] Scan stop requested. 
+[23:44:48] Scan started. 
+[23:44:51] Scan stop requested. 
+[23:45:39] Scan started. 
+[23:49:45] Scan stop requested. 
+[23:52:17] Scan started. 
+[23:52:57] Scan stop requested. 
+[23:53:35] Scan started. 
+[23:53:38] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:53:38] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:53:38] Scan finished, no traces have been found. 
+[23:53:46] Scan stop requested. 
+[23:53:53] Scan stopped. 
+[23:54:04] Scan started. 
+[23:54:07] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:54:07] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:54:07] Found .tif file: montaza joca. stefi vesna.tif. File has been executed and moved to a backup folder. 
+[23:54:07] Scan finished, 1 traces have been found! 
+[23:54:23] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:54:23] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:54:23] Scan finished, no traces have been found. 
+[23:54:33] Scan stop requested. 
+[23:54:38] Scan stopped. 
+[23:59:47] Scan started. 
+[23:59:50] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[23:59:50] Scanning C:/Users/pc/Desktop/folder838771... 
+[23:59:50] Scan finished, no traces have been found. 
+[00:00:05] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:05] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:05] Scan finished, no traces have been found. 
+[00:00:14] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:14] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:14] Scan finished, no traces have been found. 
+[00:00:20] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:20] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:20] Scan finished, no traces have been found. 
+[00:00:29] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:29] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:29] Scan finished, no traces have been found. 
+[00:00:33] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:33] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:33] Scan finished, no traces have been found. 
+[00:00:35] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:35] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:35] Scan finished, no traces have been found. 
+[00:00:44] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:44] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:44] Scan finished, no traces have been found. 
+[00:00:48] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:48] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:48] Scan finished, no traces have been found. 
+[00:00:50] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:50] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:50] Scan finished, no traces have been found. 
+[00:00:59] Scan started, folders: {'C:/Users/pc/Desktop/folder838771': {'backup': 'C:/Users/pc/Desktop/folder838771/backup'}} 
+[00:00:59] Scanning C:/Users/pc/Desktop/folder838771... 
+[00:00:59] Scan finished, no traces have been found. 
